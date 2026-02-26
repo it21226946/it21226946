@@ -86,13 +86,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umesha2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umesha2001&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=it21226946&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=it21226946&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesha2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=umesha2001&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21226946&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=it21226946&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br>
